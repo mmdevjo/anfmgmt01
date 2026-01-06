@@ -1,0 +1,20 @@
+{
+  "manifestVersion": "2.5.0",
+  "pluginVersion": "0.1.0",
+  "name": { 
+    "en": "anfmgmt01", 
+    "de": "anfmgmt01" 
+  },
+  "description": {
+    "en": "Anforderungsmanagement Dev Plugin Mile",
+    "de": "Anforderungsmanagement Dev Plugin Mile"
+  },
+  "context": ["userName, userEmail"],
+  "entryPoints": [
+    {
+      "id": "62ce37f7-345f-43d3-acc1-8c31f36cef26",
+      "name": { "en": "Board", "de": "Board" },
+      "url": "/"
+    }
+  ]
+}
