@@ -15,9 +15,7 @@
       "id": "62ce37f7-345f-43d3-acc1-8c31f36cef26",
       "name": { "en": "Board", "de": "Board" },
       "url": "https://mmdevjo.github.io/anfmgmt01/anfmgmt01.html",
-      "config": {
-        "height": 1200
-      }
+      "height": 1200
     }
   ]
 }
