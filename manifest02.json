@@ -13,7 +13,7 @@
   "entryPoints": [
     {
       "id": "762627ac-289f-4631-b04b-bec090739cd2",
-      "name": { "en": "Board", "de": "Board" },
+      "name": { "en": "anfmgmt02", "de": "anfmgmt02" },
       "url": "https://haiilodev.gfi.ihk.de/anfmgmt02"
     }
   ]
