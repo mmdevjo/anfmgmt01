@@ -1,0 +1,20 @@
+{
+  "manifestVersion": "2.5.0",
+  "pluginVersion": "0.2.0",
+  "name": { 
+    "en": "anfmgmt02", 
+    "de": "anfmgmt02" 
+  },
+  "description": {
+    "en": "Anforderungsmanagement Plugin | WIP Test",
+    "de": "Anforderungsmanagement Plugin | WIP Test"
+  },
+  "context": ["userName", "userEmail"],
+  "entryPoints": [
+    {
+      "id": "762627ac-289f-4631-b04b-bec090739cd2",
+      "name": { "en": "Board", "de": "Board" },
+      "url": "https://haiilodev.gfi.ihk.de/"
+    }
+  ]
+}
